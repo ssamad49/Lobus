@@ -4499,11 +4499,17 @@ body.mobile-nav-active #mobile-nav-toggle {
   .nav-tabs {
     display: flex;
     flex-direction: column;
+    margin-top: -100px;
+
   }
+  .fullscreen p{
+    display: none;
+  }
+  
 }
-@media (min-width : 1080px){
+@media (max-width : 1000px){
   #myTab{
-    margin-top: 100px;
+    margin-top: -200px;
   }
 }
 
