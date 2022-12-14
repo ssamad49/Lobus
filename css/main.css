@@ -2483,7 +2483,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: url(../img/hero-bg.jpg) center;
+  background: url(../img/slide4.jpg) center;
   background-size: cover;
 }
 
@@ -4567,3 +4567,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 .faq .faq-list a.collapsed .icon-close {
   display: none;
 }
+/* modification rochdi nav  */
+
+/* end modification nav */
