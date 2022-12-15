@@ -4579,3 +4579,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* modification rochdi nav  */
 
 /* end modification nav */
+/*15/12*/
+.form-tabs{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
