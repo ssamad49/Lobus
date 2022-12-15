@@ -2483,8 +2483,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: url(../img/slide4.jpg) center;
-  background-size: cover;
+  /* background: url(../img/slide4.jpg) center;
+  background-size: cover; */
+  background-color: #0997F9;;
 }
 
 .banner-area .overlay-bg {
@@ -2577,6 +2578,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-right .tab-content {
   background: #fff;
+  border-radius: 0 6px 6px;
+  box-shadow: rgb(37 42 49 / 30%) 0px 4px 12px 0px;
 }
 
 .banner-right .form-wrap {
